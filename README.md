@@ -1,5 +1,7 @@
-# El primer paso para la creacion de este proyecto fue ejecturar
+El primer paso para la creacion de este proyecto fue ejecturar
+```
 npm create vite@latest
+```
 seleccionando el framework React con las tecnologías 
 * TypeScript:
 Lo elijo por enciam de JavaScript porque el tipado fuerte hace el codigo mas legible, reutilizable. Mejora el autocompletado. El compilador señala errores de tipado que serían bugs más complicados de detectar en JS.
