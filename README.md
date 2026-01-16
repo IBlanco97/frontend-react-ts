@@ -4,11 +4,12 @@ npm create vite@latest
 ```
 seleccionando el framework React con las tecnologías 
 * TypeScript:
-Lo elijo por enciam de JavaScript porque el tipado fuerte hace el codigo mas legible, reutilizable. Mejora el autocompletado. El compilador señala errores de tipado que serían bugs más complicados de detectar en JS.
+Lo elijo por encima de JavaScript porque el tipado fuerte hace el codigo mas legible, reutilizable. Mejora el autocompletado. El compilador señala errores de tipado que serían bugs más complicados de detectar en JS.
 * SWC:
-SWC es un transpilador, que convierte JSX a HTML. Es mucho más rápido que otras alternativas como Babel, ya que está hecho en Rust
+Es un transpilador, que convierte JavaScript a JSX. Es mucho más rápido que otras alternativas como Babel, ya que está hecho en Rust
+
 Versión de vite: vite v7.3.1
-Vite es el empaquetador más rápido para crear aplicaciones web
+Vite es el empaquetador más rápido para crear aplicaciones web.
 
 # Readme made by Vite:
 
